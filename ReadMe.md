@@ -1,5 +1,5 @@
 # Selenium Testing on Shopping Portal
-I took a small Selenium Workshop by [Sandeep Garud](https://www.linkedin.com/in/sandeepsgarud/) during my undergrad course and just loved it! He had given three additional assignments to learn and explore Selelnium more in-detail, which I obviously solved because duh, it's [Selenium](https://www.seleniumhq.org/)!
+I took a Selenium Workshop by [Sandeep Garud](https://www.linkedin.com/in/sandeepsgarud/) during my undergrad course and just loved it! He had given three additional assignments to learn and explore Selelnium more in-detail, which I obviously solved because duh, it's [Selenium](https://www.seleniumhq.org/)!
 
 ## File Details
 Problem Statements File + Demo test case in HomeTest.java
